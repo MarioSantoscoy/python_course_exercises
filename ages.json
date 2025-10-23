@@ -1,0 +1,21 @@
+{
+  "next_link": "test.com/nextLink",
+  "user_info": [
+    {
+      "username": "Carlitos",
+      "age": 26
+    },
+    {
+      "username": "Mario",
+      "age": 33
+    },
+    {
+      "username": "Victor",
+      "age": 29
+    },
+    {
+      "username": "Edu",
+      "age": 29
+    }
+  ]
+}
